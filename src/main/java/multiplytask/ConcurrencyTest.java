@@ -1,3 +1,5 @@
+package multiplytask;
+
 public class ConcurrencyTest {
 
     public static void main(String[] args) throws InterruptedException {

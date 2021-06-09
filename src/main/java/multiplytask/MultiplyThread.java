@@ -1,3 +1,5 @@
+package multiplytask;
+
 import javax.swing.*;
 import java.math.BigInteger;
 
